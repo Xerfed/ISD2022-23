@@ -1,6 +1,6 @@
 # Bristol Museums Daily Visitor Numbers 
 
-A count of total visitors to the Bristol museums each day.
+A website that showcases the total visitors to the Bristol museums each day.
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
