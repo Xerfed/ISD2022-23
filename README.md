@@ -1,2 +1,3 @@
 # openapibristolwebsite
-A website that does things.
+Plan: To create a webspace that uses data from "Bristol Open Data"
+
