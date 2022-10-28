@@ -3,7 +3,9 @@
 ## Business Case
 
 ### Problem statement
-TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
+- Information about museums is already readly available for the public. 
+- The Bristol Opendata of museum visits has not been updated sinces 2019.
+- There is a lot of competitors in this spaces for example the museums also have their own apps sometimes rewarding people for downloading it by giving things such as free coffee or free entry tickets.
 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.
