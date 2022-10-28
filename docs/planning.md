@@ -8,7 +8,8 @@
 - There is a lot of competitors in this spaces for example the museums also have their own apps sometimes rewarding people for downloading it by giving things such as free coffee or free entry tickets.
 
 ### Business benefits
-TODO: List high-level benefits that this product will provide.
+Makes all Bristol museums data readily accessible in one website/application and the users won't need to go to other apps or search. 
+Website/App mostly targets tourists and people visiting Bristol. 
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?
