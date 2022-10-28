@@ -10,7 +10,6 @@
 ### Business benefits
 - Makes all Bristol museums data readily accessible in one website/application and the users won't need to go to other apps or search. 
 - Website/App mostly targets tourists and people visiting Bristol. Tourist makes a large contribution towards popularity of places and help local businesses. 
-- 
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?
