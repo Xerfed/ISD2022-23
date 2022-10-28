@@ -15,8 +15,7 @@
 - It puts all of the infomation in one place, making it easy to use and access for the public.
 -  
 ### Expected Risks
-TODO: What are the main risks of this project?
-
+- Having too large of a scope or getting too complex, which will work against the goal of ease and availability.
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
 
