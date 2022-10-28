@@ -12,8 +12,8 @@
 - Website/App mostly targets tourists and people visiting Bristol. Tourist makes a large contribution towards popularity of places and help local businesses. 
 
 ### Options Considered
-TODO: What are some other customer options or leading products that address the same needs?
-
+- It puts all of the infomation in one place, making it easy to use and access for the public.
+-  
 ### Expected Risks
 TODO: What are the main risks of this project?
 
