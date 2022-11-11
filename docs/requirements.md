@@ -1,13 +1,16 @@
 # Requirements
 
 ## User Needs
-
+- Users should be able to see the total number of people visiting
+- Users should be able to interact with the web application
+- Not only see museums but also recommend things such as other local restaurants through google maps
+- We want to showcase information in a simple way, for readability
+- Maybe a translated website?
+- Asks for User location to pin point to nearest museum 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
-
+Our goal is to make it easy for users to see when the museums is busiest and when it is not. We might also applu
 ### Actors
-TODO: List and describe the actors/users for this product.
+Our target demographic mostly consists of tourists, elderly and teenagers. 
 
 ### Use Cases
 TODO: Describe each use case (one per team member).
