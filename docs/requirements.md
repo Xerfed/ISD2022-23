@@ -17,15 +17,15 @@ TODO: Describe each use case (one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+| Use Case 1 (John) | User Location | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Description** | Goal is to obtain users geolocation. |
+| **Actors** | The user is involved of the webapplication would be involved. |
+| **Assumptions** | Conditions are if the user would like to give their current location or not. </td></tr>
+| **Steps** | The user would need to click a consent box for the web app to access the current geolocation of user |
+| **Variations** | A pop up to for the user to click yes or no to access location |
+| **Non-functional** | Could change how the web app is going to look as it depending on user input such as not just showing where the museum is |
+| **Issues** | The issues is creating the popup and coding the map to the web application and if it will effect the readablity of the webapp as we would |
 
 
 TODO: Your Use-Case diagram should include all use-cases.
