@@ -8,7 +8,7 @@
 - Maybe a translated website?
 - Asks for User location to pin point to nearest museum 
 ### User stories
-Our goal is to make it easy for users to see when the museums is busiest and when it is not. We might also applu
+Our goal is to make it easy for users to see when the museums is busiest and when it is not. We might also apply some ways for more users to use the app such as giving free coupons for museum visit or getting a free coffee for a local restaurant. Our plan is to boost the local businesses and help them. 
 ### Actors
 Our target demographic mostly consists of tourists, elderly and teenagers. 
 
