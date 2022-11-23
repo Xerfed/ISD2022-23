@@ -3,9 +3,7 @@
 ## Business Case
 
 ### Problem statement
-- Information about museums is already readly available for the public. 
-- The Bristol Opendata of museum visits has not been updated sinces 2019.
-- There is a lot of competitors in this spaces for example the museums also have their own apps sometimes rewarding people for downloading it by giving things such as free coffee or free entry tickets.
+Information about museums is already readly available for the public. Opening times and closing times for the museum is readily available on the museums website. Google Maps has information regarding the times when the museum is busy. On the other hand the data given by Bristol Opendata of "museum visits" has not been updated since 2019. There is a lot of competitors within this space. For example: Museums also have their own app which sometimes reward people for downloading it or by giving complimentary items such as a free coffee or free entry tickets top their users.
 
 ### Business benefits
 - Makes all Bristol museums data readily accessible in one website/application and the users won't need to go to other apps or search. 
