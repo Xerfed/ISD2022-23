@@ -20,7 +20,7 @@ TODO: Describe each use case (one per team member).
 | ---------------------------------------------------- | ----------------------------------------------------- |
 | **Description** | Tourist would like to know if the bristol museums are busy or not. |
 | **Actors** | Tourist/User of App |
-| **Assumptions** | Browser is able to show current data of museum. </td></tr>
+| **Assumptions** | Browser is able to show current data of museum. |
 | **Steps** | 
     1. User opens web browser
     2. Get data from Bristol Open Database  
