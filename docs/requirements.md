@@ -1,15 +1,15 @@
 # Requirements
 
 ## User Needs
-Thw Users should be able to see the total number of people visiting and should be able to interact with the web application.
+The users should be able to see the total number of people visiting and should be able to interact with the web application.
 They will not only see museums but also recommend things such as other local restaurants through google maps as this goes with our business goal which is to help local community. The information in which we are planning to showcase should be done in a simple way, for readability and plan to maybe add a translated website for tourist?
-The webapplication will need to ask for users current location to pin point to the nearest museum.
+The web application will need to ask for users current location to pin point to the nearest museum.
 
 ### User stories
 Our goal is to make it easy for users to see when the museums is busiest and when it is not. We might also apply some ways for more users to use the app such as giving free coupons for museum visit or getting a free coffee for a local restaurant. Our plan is to boost the local businesses and help them. 
 
 ### Actors
-Our target demographic mostly consists of tourists, elderly and teenagers. 
+Our target demographic mostly consists of tourists, the elderly, and teenagers. 
 
 ### Use Cases
 TODO: Describe each use case (one per team member).
@@ -26,9 +26,14 @@ TODO: Describe each use case (one per team member).
 | **Non-functional** | Could change how the web app is going to look. The sevice should be able to run on Google Chrome as this is the default browser of most phones and desktop. |
 | **Issues** | An issue could a rise as the app will print the number of museum vistors accross all Bristol museum not just one. So if one museum is busy and another is not the web app will not be able to distinguish which is busy or not. | </td></tr>
 
-
-
-
+| Use Case 2 (Elliott) | Popularity Data |
+| ---------------------------------------------------- |
+| **Description** | See popularity of Bristol's Musuems and therefore be able to decide which is most sought after. |
+| **Actors** | App Users |
+| **Assumptions** | Browser will show popularity trends in museums over longer periods. |
+| **Stepts** | 1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums.
+<br /> 4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time.
+| **Issues | Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
 
 
 TODO: Your Use-Case diagram should include all use-cases.
