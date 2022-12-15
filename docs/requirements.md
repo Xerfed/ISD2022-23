@@ -33,7 +33,7 @@ TODO: Describe each use case (one per team member).
 | **Assumptions** | Browser will show popularity trends in museums over longer periods. |
 | **Stepts** | 1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums.
 <br /> 4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time.
-| **Issues | Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
+| **Issues** | Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
 
 
 TODO: Your Use-Case diagram should include all use-cases.
