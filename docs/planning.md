@@ -13,7 +13,7 @@ It puts all of the infomation in one place, making it easy to use and access for
 
 ## Expected Risks
 Having too large of a scope or getting too complex, which will work against the goal of ease and availability.
-Overloading the website with many elements could lead to eye clutter which is someting we should avoid. 
+Overloading the website with many elements could lead to eye clutter which is someting we should avoid. Important to consider the demographic using the tool and therefore the technological skill of said groups.
 
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
