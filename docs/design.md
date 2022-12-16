@@ -9,4 +9,4 @@ Describe it in terms of interactions between the components introduces above, an
 ## User Interface design
 Wireframe mockup for Museum Map Data.
 
-[WIREFRAME](https://user-images.githubusercontent.com/116878977/208084953-b898d27c-d399-4c7d-84f1-3db6a32ddba3.png)
+![WIREFRAME](https://user-images.githubusercontent.com/116878977/208084953-b898d27c-d399-4c7d-84f1-3db6a32ddba3.png)
