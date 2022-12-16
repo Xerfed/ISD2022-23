@@ -26,6 +26,17 @@ TODO: Describe each use case (one per team member).
 | **Non-functional** | Could change how the web app is going to look. The sevice should be able to run on Google Chrome as this is the default browser of most phones and desktop. |
 | **Issues** | An issue could a rise as the app will print the number of museum vistors accross all Bristol museum not just one. So if one museum is busy and another is not the web app will not be able to distinguish which is busy or not. | </td></tr>
 
+
+| Use Case 1 (John) | Museum Data |
+| ---------------------------------------------------- | ----------------------------------------------------- |
+| **Description** | Tourist would like to know if the bristol museums are busy or not. |
+| **Actors** | Tourist/User of App |
+| **Assumptions** | Browser is able to show current data of museum. |
+| **Steps** |    1. User opens web browser <br /> 2. Get data from Bristol Open Database <br /> 3. Shows the current number of people in the local museum and others.<br /> 4. Shows wether it is busy or not. <br /> 5. Be able to see wether a museum is busy or not print a text "Not Busy", "Moderately Busy", "Busy". 
+| **Variations** | The browser may not support the code writen as some phones screen resolution may clutter the readablity of the text. |
+| **Non-functional** | Could change how the web app is going to look. The sevice should be able to run on Google Chrome as this is the default browser of most phones and desktop. |
+| **Issues** | An issue could a rise as the app will print the number of museum vistors accross all Bristol museum not just one. So if one museum is busy and another is not the web app will not be able to distinguish which is busy or not. | </td></tr>
+
 | Use Case 2 (Elliott) | Popularity Data |
 | ---------------------------------------------------- |
 | **Description** | See popularity of Bristol's Musuems and therefore be able to decide which is most sought after. |
