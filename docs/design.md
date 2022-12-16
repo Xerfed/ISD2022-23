@@ -7,7 +7,6 @@ Describe it in terms of interactions between the components introduces above, an
 ![Insert your Interaction/Sequence Diagrams for each use-case here.](images/sequence.png)
 
 ## User Interface design
-TODO: Specify and develop a user interface mockup using a wireframe.
+Wireframe mockup for Museum Map Data.
 
-![Insert your wireframe screenshots for each use-case here](images/wireframe.png)
-TODO: repeat as necessary
+[WIREFRAME](https://user-images.githubusercontent.com/116878977/208084953-b898d27c-d399-4c7d-84f1-3db6a32ddba3.png)
