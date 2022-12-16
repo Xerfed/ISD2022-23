@@ -36,15 +36,6 @@ TODO: Describe each use case (one per team member).
 <br /> 4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time. 
 | **Issues** |  Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
 
-| Use Case 2 (Elliott) | Popularity Data |
-| ---------------------------------------------------- |
-| **Description** | See popularity of Bristol's Musuems and therefore be able to decide which is most sought after. |
-| **Actors** | App Users |
-| **Assumptions** | Browser will show popularity trends in museums over longer periods. |
-| **Stepts** | 1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums.
-<br /> 4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time.
-| **Issues** | Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
-
 
 TODO: Your Use-Case diagram should include all use-cases.
 ![image](https://user-images.githubusercontent.com/110387603/201328562-351a695f-1833-408e-8e1f-78b637ca5cc2.png)
