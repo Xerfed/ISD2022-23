@@ -41,9 +41,11 @@ TODO: Your Use-Case diagram should include all use-cases.
 ![image](https://user-images.githubusercontent.com/110387603/201328562-351a695f-1833-408e-8e1f-78b637ca5cc2.png)
 
 ## Software Requirements Specification
+The program must be able to run on a browser as this will maximise the reach of people using the appilcation and is also universally accessible for not just mobile phone users but also on desktop.
+
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
+
+e.g. "The system shall ..."
     Give each functional requirement a unique ID. e.g. FR1, FR2, ...
     Indicate which UC the requirement comes from.
 
