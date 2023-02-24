@@ -9,7 +9,7 @@ The web application will need to ask for users current location to pin point to 
 Our goal is to make it easy for users to see when the museums is busiest and when it is not. We might also apply some ways for more users to use the app such as giving free coupons for museum visit or getting a free coffee for a local restaurant. Our plan is to boost the local businesses and help them. 
 
 ### Actors
-Our target demographic mostly consists of tourists, the elderly, and teenagers. 
+Our target demographic mostly consists of tourists, the elderly, and teenagers. We have choosen this target demographic as they are the most likely to need information about the local museums for things such as events and if the area is busy. We also want to target the older generations as we want to make a webpage that helps with readiablity.
 
 ### Use Cases
 TODO: Describe each use case (one per team member).
