@@ -11,7 +11,7 @@ This is a rough idea of what the overall webpage will look like. [Some of the de
 
 
 Our initial design includes:
-- Home
+- A Home Page
 - Popular Museums
 - Museum List
 - Map
