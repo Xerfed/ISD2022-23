@@ -7,7 +7,9 @@ Describe it in terms of interactions between the components introduces above, an
 ![Insert your Interaction/Sequence Diagrams for each use-case here.](images/sequence.png)
 
 ## User Interface design
-This is a rough idea of what the overall webpage will look like. Some of the design may be altered at the final stage of implementation. 
+This is a rough idea of what the overall webpage will look like. [Some of the design may be altered at the final stage of implementation.]
+
+
 Our initial design includes:
 - Home
 - Popular Museums
