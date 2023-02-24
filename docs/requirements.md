@@ -12,19 +12,16 @@ Our goal is to make it easy for users to see when the museums is busiest and whe
 Our target demographic mostly consists of tourists, the elderly, and teenagers. We have choosen this target demographic as they are the most likely to need information about the local museums for things such as events and if the area is busy. We also want to target the older generations as we want to make a webpage that helps with readiablity.
 
 ### Use Cases
-TODO: Describe each use case (one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
 
 | Use Case 1 (John) | Museum Data |
 | ---------------------------------------------------- | ----------------------------------------------------- |
-| **Description** | Tourist would like to know if the bristol museums are busy or not. |
+| **Description** | Tourist would like to know if the Bristol museums is busy as they would like to visit off peak hours. |
 | **Actors** | Tourist/User of App |
 | **Assumptions** | Browser is able to show current data of museum. |
 | **Steps** |    1. User opens web browser <br /> 2. Get data from Bristol Open Database <br /> 3. Shows the current number of people in the local museum and others.<br /> 4. Shows wether it is busy or not. <br /> 5. Be able to see wether a museum is busy or not print a text "Not Busy", "Moderately Busy", "Busy". 
 | **Variations** | The browser may not support the code writen as some phones screen resolution may clutter the readablity of the text. |
-| **Non-functional** | Could change how the web app is going to look. The sevice should be able to run on Google Chrome as this is the default browser of most phones and desktop. |
-| **Issues** | An issue could a rise as the app will print the number of museum vistors accross all Bristol museum not just one. So if one museum is busy and another is not the web app will not be able to distinguish which is busy or not. | </td></tr>
+| **Non-functional** | Could change the apperance of the app. The sevice should be able to run on Google Chrome as this is the default browser of most phones and desktop. |
+| **Issues** | An issue could a rise as the app will print the number of museum vistors accross all Bristol museum not just one. If one museum is busy and another is not the web app will not be able to distinguish which is busy or not as it only shows the data of the most popular museums in Bristol. | </td></tr>
 
 
 | Use Case 2 (Elliott) | Popularity Data |
@@ -51,9 +48,17 @@ The system shall be able to cycle through the different webpages that we will cr
 
 Non-Functional Requirement (John)
 
-**Maintainability** -  This is a way to provide bug fixes and updates to the webpage. By being able to maintain the webpage and providing constant updates this can increase the longevity of the webpage and for the users to keep interacting and using it.
+**Maintainability** -  This is a way to provide bug fixes and updates to the webpage. By being able to maintain the webpage and providing constant updates this can increase the longevity of the webpage and for the users to keep interacting and using it. A use case would be to 
 
+**Efficiency** -
 
+**Portability** -
+
+**Reliability** -
+
+**Functionality** -
+
+**Usability** -
 
 
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
