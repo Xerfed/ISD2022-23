@@ -49,9 +49,9 @@ The system shall be able to cycle through the different webpages that we will cr
 
 ### Non-Functional Requirements
 
-####Non-Functional Requirement (John)
+Non-Functional Requirement (John)
 
-**Maintainability** -  This is a way to provide bug fixes and updates to the webpage. By being able to maintain the webpage and providing constant updates this can increase the longevity of the webpage and for the users to keep interacting and using it. |
+**Maintainability** -  This is a way to provide bug fixes and updates to the webpage. By being able to maintain the webpage and providing constant updates this can increase the longevity of the webpage and for the users to keep interacting and using it.
 
 
 
