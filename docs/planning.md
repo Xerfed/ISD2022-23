@@ -16,6 +16,13 @@ Having too large of a scope or getting too complex, which will work against the 
 Overloading the website with many elements could lead to eye clutter which is someting we should avoid. Important to consider the demographic using the tool and therefore the technological skill of said groups.
 
 ## Project Scope
-TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
+
+- Opendata Platform
+- Open.Gov Licencing
+- HTML webpage
+- Style of webpage
+- Target Demographic: Mostly Tourist and Locals
+- Performing maintainance and updates to the site 
+- Location Permission
 
 ![image](https://user-images.githubusercontent.com/110387603/198564858-73a76da1-ce7d-4899-9f73-d238caffccc8.png)
