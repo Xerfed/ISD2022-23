@@ -19,7 +19,7 @@ Our initial design includes:
 ![image](https://user-images.githubusercontent.com/110387603/221118292-3bf6b68a-c122-4350-851b-80cc99ee36a0.png)
 
 
-Elliott's Use Case Wireframe:
+### Elliott's Use Case Wireframe:
 
 - Busy Locations
 - Locater
