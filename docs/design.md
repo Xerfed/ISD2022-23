@@ -5,7 +5,7 @@
 ### Elliott's Sequence Diagram
 
 
-![image](https://raw.githubusercontent.com/Xerfed/ISD2022-23/main/SEQUENCEDIAGRAM.png](https://user-images.githubusercontent.com/116878977/222710207-10388509-5556-4d48-899c-44d5598a5bf4.png)
+![image](https://user-images.githubusercontent.com/116878977/222710207-10388509-5556-4d48-899c-44d5598a5bf4.png)
 
 ## User Interface design
 This is a rough idea of what the overall webpage will look like. [Some of the design may be altered at the final stage of implementation.]
