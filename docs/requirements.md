@@ -52,9 +52,13 @@ Non-Functional Requirement (John)
 
 **Efficiency** -
 
+Non-Functional Requirement (Elliot)
+
 **Portability** -
 
 **Reliability** -
+
+Non-Functional Requirement (Harrison)
 
 **Functionality** -
 
