@@ -23,15 +23,16 @@ Our target demographic mostly consists of tourists, the elderly, and teenagers. 
 | **Non-functional** | Could change the apperance of the app. The sevice should be able to run on Google Chrome as this is the default browser of most phones and desktop. |
 | **Issues** | An issue could a rise as the app will print the number of museum vistors accross all Bristol museum not just one. If one museum is busy and another is not the web app will not be able to distinguish which is busy or not as it only shows the data of the most popular museums in Bristol. | </td></tr>
 
-
 | Use Case 2 (Elliott) | Popularity Data |
 | ---------------------------------------------------- | ----------------------------------------------------- |
-| **Description** | See historical popularity of Bristol's Musuems and therefore be able to decide which is most sought after. |
+| **Description** | See historical popularity of Bristol's Musuems and therefore be able to decide which is most sought after.  |
 | **Actors** | Tourist/User of App |
 | **Assumptions** | Browser will show popularity trends in museums over longer periods. |
-| **Steps** | 1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums.
+| **Steps** |    1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums.
 <br /> 4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time. 
-| **Issues** |  Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
+| **Issues** | Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
+
+
 
 
 ![image](https://user-images.githubusercontent.com/110387603/201328562-351a695f-1833-408e-8e1f-78b637ca5cc2.png)
