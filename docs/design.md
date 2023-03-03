@@ -1,10 +1,10 @@
 # Design
 
 ## Behavioural design
-TODO: Describe a concrete scenario for each use-case. 
-Describe it in terms of interactions between the components introduces above, and the actors introduced in your requirements.
 
-![image]([images/sequence.png](https://raw.githubusercontent.com/Xerfed/ISD2022-23/main/SEQUENCEDIAGRAM.png?token=GHSAT0AAAAAAB7N2INIS4PPWOBTYMMN5XSAZAB3HXQ))
+### Elliott's Sequence Diagram
+
+![image](https://raw.githubusercontent.com/Xerfed/ISD2022-23/main/SEQUENCEDIAGRAM.png?token=GHSAT0AAAAAAB7N2INIS4PPWOBTYMMN5XSAZAB3HXQ)
 
 ## User Interface design
 This is a rough idea of what the overall webpage will look like. [Some of the design may be altered at the final stage of implementation.]
