@@ -52,11 +52,11 @@ Non-Functional Requirement (John)
 
 **Efficiency** -
 
-Non-Functional Requirement (Elliot)
+Non-Functional Requirement (Elliott)
 
-**Portability** -
+**Portability** - The ability to use the app both on your PC and phone, therefore it can be used out and on foot for touriosts travelling around, therefore the need to develop the website to be visible and working on both phone and PC and having different UI's for each.
 
-**Reliability** -
+**Reliability** - Given the infrequent updating of the open database and how infrequently museums are closed down/opened, it would only take minimal effort to make sure that the data and map provided have recent information.
 
 Non-Functional Requirement (Harrison)
 
