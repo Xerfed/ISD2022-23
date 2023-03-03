@@ -17,3 +17,12 @@ Our initial design includes:
 - Map
 
 ![image](https://user-images.githubusercontent.com/110387603/221118292-3bf6b68a-c122-4350-851b-80cc99ee36a0.png)
+
+
+Elliott's Use Case Wireframe:
+
+- Busy Locations
+- Locater
+- Museum Description
+
+![image](https://user-images.githubusercontent.com/116878977/208084953-b898d27c-d399-4c7d-84f1-3db6a32ddba3.png)
