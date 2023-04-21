@@ -5,11 +5,11 @@ It will carry a friendly user interface that provides easy readability for the v
 
 ## Credits:
 
-1. [Planning](docs/planning.md) John/Elliott/Harrison for Text, solely John for Diagram
+1. [Planning](docs/planning.md) - John/Elliott/Harrison for Text (solely John for Diagram)
 
-2. [Requirements](docs/requirements.md) Elliott and John for all (indicated where in Requirements page)
+2. [Requirements](docs/requirements.md) - Elliott and John for all (indicated where in Requirements page)
 
-3. [Design](docs/design.md) Elliott for Sequence Diagram, Elliott and John for 
+3. [Design](docs/design.md) - Elliott for Sequence Diagram, Elliott and John for 
 Wireframe Diagrams
-4. [Implementation](docs/implementation.md) Elliott entirely (text and diagrams)
+4. [Implementation](docs/implementation.md) - Elliott entirely (text and diagrams)
 
