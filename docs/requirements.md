@@ -6,6 +6,11 @@ They will not only see museums but also recommend things such as other local res
 The web application will need to ask for users current location to pin point to the nearest museum.
 
 ### User stories
+Elliott (Museum Popularity):
+Role: User in Bristol; avoidant of overly busy museums, not familiar with info on Museums or Bristol in general.
+Goal: Aiming to both locate nearby museums, find out about them but more importantly equate name of museum to historical popularity data.
+Benefit: Web app shows both map of Bristol Museums and correlating popularity data, (intended, not yet implemented) secondary page with drop down selection that compares 2/3 museums with bar graph data representating popularity.
+
 Our goal is to make it easy for users to see when the museums is busiest and when it is not. We might also apply some ways for more users to use the app such as giving free coupons for museum visit or getting a free coffee for a local restaurant. Our plan is to boost the local businesses and help them. 
 
 ### Actors
