@@ -1,13 +1,33 @@
 # Implementation
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
+This is version v0.6 of Bristol Museum Popularity Web App using data from Bristol Open Data's [Bristol Museums Daily Visitor Numbers
+](https://opendata.bristol.gov.uk/explore/dataset/bristol-museums-daily-visitor-numbers/information/). This web app shows both the location of nearby museums (and a description of them) in Bristol and the historical popularity of those different museums.
+
+Potential issues with this dataset is that it is limited in terms of the museums that it keeps popularity data on, something that can be adressed using outside information to supplement.
 
 ## Project Structure
-TODO: Provide an outline of the project folder structure and the role of each file within it (not the contents of node_modules).
-provide a table listing the number of jslint warnings/reports for each module.
+The project structure (though not currently complete) is as such:
+
+├── bristol-museums-daily-visitor-numbers.csv\
+├── connection.js\
+├── css code.css\
+├── DBET.js\
+├── node_modules\
+├── opedata museum database.sql\
+├── package-lock.json\
+├── package.json\
+├── SQL ISD.sql\
+├── var express = require('express');.js\
+├── var mysql = require('mysql');.js\
+└── website.html
+
+TODO: provide a table listing the number of jslint warnings/reports for each module.
 
 ## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+This is a 3 phase user-oriented architecture that begins with a web-app about Museum Popularity data, running on a Nodejs server that derives data from a MySQL database inhereted from Bristol Open Data (Bristol Museum Popularity)
 
-![Insert your component Diagram here](component updated.png)
+
+The software architecture is as such:
+
+![Insert your component Diagram here](https://raw.githubusercontent.com/Xerfed/ISD2022-23/main/component%20updated.png?token=GHSAT0AAAAAACBWN7Y4MARACIMVVYSL3AXWZCCP53Q)
