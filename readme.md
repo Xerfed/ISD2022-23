@@ -5,7 +5,7 @@ It will carry a friendly user interface that provides easy readability for the v
 
 ## Credits:
 
-1. [Planning](docs/planning.md) John/Elliott/Harrison for Text. John for Diagram
+1. [Planning](docs/planning.md) John/Elliott/Harrison for Text, solely John for Diagram
 
 2. [Requirements](docs/requirements.md) Elliott and John for all (indicated where in Requirements page)
 
