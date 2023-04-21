@@ -31,47 +31,46 @@ Our target demographic mostly consists of tourists, the elderly, and teenagers. 
 | Use Case 2 (Elliott) | Popularity Data |
 | ---------------------------------------------------- | ----------------------------------------------------- |
 | **Description** | See historical popularity of Bristol's Musuems and therefore be able to decide which is most sought after.  |
-| **Actors** | Tourist/User of App |
-| **Assumptions** | Browser will show popularity trends in museums over longer periods. |
-| **Steps** |    1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums.
-<br /> 4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time. 
-| **Issues** | Reqiures updating over time as the information will change over the course of days/weeks/months. | </td></tr>
-
-
-
+| **Actors** | User seeking least or most busy museums. |
+| **Assumptions** | Browser will show popularity trends in museums over longer periods.|
+| **Steps** |    1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums <br />4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time. 
+| **Issues** | Requires updating MySQL database over time as the information will change over the course of days/weeks/months as Bristol Open Data is updated. | </td></tr>
 
 ![image](https://user-images.githubusercontent.com/110387603/201328562-351a695f-1833-408e-8e1f-78b637ca5cc2.png)
 
 ## Software Requirements Specification
+
+Software Requirements Specification (John)
+
 The program must be able to run on a browser as this will maximise the reach of people using the appilcation and is also universally accessible for not just mobile phone users but also on desktop. We will be using HTML language to create the webpage alongside be able to contact the database using mySQL. 
 
 ### Functional requirements
+
+Functional Requirements (John)
 
 The system shall be able to cycle through the different webpages that we will create using the different tabs within the webpage. We will be required to learn how to design a webpage using various programming tools and be able to create a functioning site. We are also required to use the information from Bristol Opendata and add this to our webpage. 
 
 
 ### Non-Functional Requirements
 
-Non-Functional Requirement (John)
+Non-Functional Requirements (John)
 
 **Maintainability** -  This is a way to provide bug fixes and updates to the webpage. By being able to maintain the webpage and providing constant updates this can increase the longevity of the webpage and for the users to keep interacting and using it. A use case would be to 
 
-**Efficiency** -
+**Efficiency** - !TODO!
 
-Non-Functional Requirement (Elliott)
+Non-Functional Requirements (Elliott)
 
 **Portability** - The ability to use the app both on your PC and phone, therefore it can be used out and on foot for touriosts travelling around, therefore the need to develop the website to be visible and working on both phone and PC and having different UI's for each.
 
 **Reliability** - Given the infrequent updating of the open database and how infrequently museums are closed down/opened, it would only take minimal effort to make sure that the data and map provided have recent information.
 
-Non-Functional Requirement (Harrison)
+**Functionality** - The data is accurate up to the point of Bristol Open Data's data and updates alongside that using MySQL. Given the simplistic design of the app, it is intended to work on both desktop and phone views.
 
-**Functionality** -
+**Usability** - The program is designed with simplicity in mind; the aims of the web-app are to simply show you where you are in relation to local museums, and provide you with historical data based on these museums. This is a two page process with no unnecessary information in between.
 
-**Usability** -
+### Quality Attributes (Elliott) (Use Case For Museum Popularity)
 
+**NFR1: Interoperability** - The function of the web app is based on and reliant to the connectivity between itself, MySQL and by extension, MySQL's connectivty to Bristol Open Data. Working as a system of derivement from other systems.
 
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
-
-Indicate which UC the requirement comes from.
+**NFR2: Accuracy** - The web apps accuracy is as accurate as any other data that can be obtained about Bristol's Museum Popularity; though can only be up-to-date with how often Bristol Open Data is.
