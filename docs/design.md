@@ -2,12 +2,16 @@
 
 ## Behavioural design
 
-### Elliott's Sequence Diagram
+### Elliott's (UC2) Sequence Diagram
 
+<Create sequence diagram to show user interaction with app>
 
 ![image](https://user-images.githubusercontent.com/116878977/222710207-10388509-5556-4d48-899c-44d5598a5bf4.png)
 
-## User Interface design 
+
+<Create wireframes to show functions of web app>
+
+## User Interface design (UC1) 
 (John)\
 This is a rough idea of what the overall webpage will look like. [Some of the design may be altered at the final stage of implementation.]
 
@@ -22,7 +26,7 @@ Our initial design includes:
 
 
 
-**Elliott's Use Case Wireframe:**
+**Elliott's Use Case (UC2) Wireframe:**
 
 This is the prospective design layout and flow of the website from the perspective of assertaining museum popularity data:
 
