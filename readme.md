@@ -23,8 +23,8 @@ Wireframe Diagrams
 <all comments here written by Elliott>
 
   
-HTML CODE: 
-<html>
+|HTML CODE:|
+|<html>
   <link rel="stylesheet" href="/style.css">
   <!-- A button for the next page in the website -->
   <a href="second-page.html"><button> Historical Data </button></a>
@@ -42,7 +42,7 @@ HTML CODE:
 
 <b2> </b>
 </div>
-</html>
+</html>|
 
   
   
