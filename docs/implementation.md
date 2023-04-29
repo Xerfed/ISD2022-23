@@ -40,3 +40,11 @@ This is a 3 phase user-oriented architecture that begins with a web-app about Mu
 The software architecture is as such:
 
 ![Insert your component Diagram here](https://github.com/Xerfed/ISD2022-23/blob/de0c830a949044985093fc76062d21264a2162a6/component%20updated.png)
+
+Website so far (not finished): https://codepen.io/Xerfed/pen/rNZmJBz
+website implementation demo: 
+https://user-images.githubusercontent.com/110387603/235289605-7100d2aa-1173-481a-abc2-98e788b74c36.mp4
+
+
+
+
