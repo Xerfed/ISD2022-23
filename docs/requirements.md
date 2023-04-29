@@ -1,4 +1,4 @@
-# Requirements
+   # Requirements
 
 ## User Needs
 The users should be able to see the total number of people visiting and should be able to interact with the web application.
@@ -59,7 +59,7 @@ Non-Functional Requirements (John)
 
 Some functions that will help with the performance and maintainability of the website are:
 - Real time monitoring of the website: This would help to continuosly monitor any problems that pop up in the website such as the server response time, website uptime and the status of the database.
-- Code optimisation: 
+- Code optimisation: Downsizing the code needed for operations can help reduce any unecessary computations which would help with the maintainance and the efficiency of the website as a whole. 
 
 
 **Efficiency** - This focuses on the effectiveness of the website to the consumer and wether or not it is using the resources allocated to it to deliver and meet the websites objectives. Some ways that the website could be more efficient is through the design, functions and optimisations. 
@@ -68,7 +68,8 @@ Some functions for the website that focus on this subject are:
 - Performance Optimisation: The website should be optimised for efficient performance with fast loading times as this will allows the users to have a smooth experience when running the site. 
 - Scheduled backups: This will ensure that the entire website's database and files will be backed up to a cloud server which ensures the safety of the website's data and files. This should be done in off-peak hours to avoid any impact on the websites performance.
 - Scalability: The website needs to be able to handle lots of user traffic as this could affect the performance. Scalability will help with the various changes in traffic as it will help with the changing visitor load especially during the peak periods or if there any special events. 
-
+- Different browser compatibilities: By ensuring that the website is able to run on different browsers and devices the user will be able to fee consistency and have trust on the website being used regardless of what platform they are using. 
+- Website UI (User Interface): This is an important part of the efficiency of the website as by having a good website UI would mean that the users are able to navigate through the website with ease. This will help to provide an efficient user experience as it will help the user find the information in the website that they are looking for. 
 
 
 Non-Functional Requirements (Elliott)
