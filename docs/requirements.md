@@ -55,9 +55,21 @@ The system shall be able to cycle through the different webpages that we will cr
 
 Non-Functional Requirements (John)
 
-**Maintainability** -  This is a way to provide bug fixes and updates to the webpage. By being able to maintain the webpage and providing constant updates this can increase the longevity of the webpage and for the users to keep interacting and using it. A use case would be to 
+**Maintainability** -  This is a way to provide bug fixes and updates to the webpage. By being able to maintain the webpage and providing constant updates this can increase the longevity of the webpage and for the users to keep interacting and using it.
 
-**Efficiency** - !TODO!
+Some functions that will help with the performance and maintainability of the website are:
+- Real time monitoring of the website: This would help to continuosly monitor any problems that pop up in the website such as the server response time, website uptime and the status of the database.
+- Code optimisation: 
+
+
+**Efficiency** - This focuses on the effectiveness of the website to the consumer and wether or not it is using the resources allocated to it to deliver and meet the websites objectives. Some ways that the website could be more efficient is through the design, functions and optimisations. 
+
+Some functions for the website that focus on this subject are: 
+- Performance Optimisation: The website should be optimised for efficient performance with fast loading times as this will allows the users to have a smooth experience when running the site. 
+- Scheduled backups: This will ensure that the entire website's database and files will be backed up to a cloud server which ensures the safety of the website's data and files. This should be done in off-peak hours to avoid any impact on the websites performance.
+- Scalability: The website needs to be able to handle lots of user traffic as this could affect the performance. Scalability will help with the various changes in traffic as it will help with the changing visitor load especially during the peak periods or if there any special events. 
+
+
 
 Non-Functional Requirements (Elliott)
 
