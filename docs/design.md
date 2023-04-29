@@ -10,7 +10,7 @@
 
 ### John's (UC2) Sequence Diagram for a website support system
 ![image](https://user-images.githubusercontent.com/110387603/235287239-86e941e3-9ae1-46f1-958c-16a6841f6e49.png)
-
+We have decided to explore a way to give the best user experience for our website and this is a system to help with tourists and users who requires assistance.
 
 <Create wireframes to show functions of web app>
 
