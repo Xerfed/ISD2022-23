@@ -18,13 +18,14 @@ We have decided to explore a way to give the best user experience for our websit
 (John)
 This is a rough idea of what the overall webpage will look like. [Some of the design may be altered at the final stage of implementation.]
 Our initial design includes:
-- A Home Page
+- A Home Page: 
   Within the homepage we will include the total of people visiting the museums using the Bristol Museum OpenData. 
   We plan to create a small text box which showcase information on the popular museums alongside local events. This should also be easy to change.
-- Popular Museums
-  This will be
-- Museum List
-- Map
+- Popular Museums Data:
+  This is all the data from Bristol OpenData regarding the museum visits all time. Showcases the historical popularity data of the museum. 
+- Museum List:
+   This will be a page that is dedicated to to showcase the most popular museums in the area with detailed explaination about it.
+- Map: A map of the museums which include a short information on the museum using google maps api alongside images of the museum.
 **Johns's Use Case (UC2) Wireframe:**
 ![image](https://user-images.githubusercontent.com/110387603/221118292-3bf6b68a-c122-4350-851b-80cc99ee36a0.png)
 
