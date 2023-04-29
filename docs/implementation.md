@@ -23,6 +23,15 @@ The project structure (though not currently complete) is as such:
 └── website.html
 
 
+| File Name | JSLint Warnings/Reports |
+| --------- | ----------------------- |
+|connection.js|                       |
+|DBET.js|                             |
+|var express = require('express');.js|                        |
+|var mysql = require('mysql');.js|                            |
+
+
+
 ## Software Architecture
 This is a 3 phase user-oriented architecture that begins with a web-app about Museum Popularity data, running on a Nodejs server that derives data from a MySQL database inhereted from Bristol Open Data (Bristol Museum Popularity)
 
