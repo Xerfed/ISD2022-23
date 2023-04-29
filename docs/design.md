@@ -8,6 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/116878977/222710207-10388509-5556-4d48-899c-44d5598a5bf4.png)
 
+### John's (UC2) Sequence Diagram for a website support system
+![image](https://user-images.githubusercontent.com/110387603/235287239-86e941e3-9ae1-46f1-958c-16a6841f6e49.png)
+
 
 <Create wireframes to show functions of web app>
 
