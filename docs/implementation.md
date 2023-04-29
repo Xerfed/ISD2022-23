@@ -22,7 +22,7 @@ The project structure (though not currently complete) is as such:
 ├── var mysql = require('mysql');.js\
 └── website.html
 
-## Javascript Error Reports
+## Javascript Error Reports John
 
 | File Name | JSLint Warnings/Reports |
 | --------- | ----------------------- |
