@@ -18,7 +18,7 @@ It will carry a friendly user interface that provides easy readability for the v
 3. [Design](docs/design.md) - Elliott and John for Sequence Diagram, Elliott and John for 
 Wireframe Diagrams
 
-4. [Implementation](docs/implementation.md) - Elliott entirely (coding, text, and diagrams) Javascript Error table by John
+4. [Implementation](docs/implementation.md) - Elliott entirely (coding, text, and diagrams) Javascript Error table and Start of Website Implementation/Video Demo by John
 
 <all comments here written by Elliott>
 
