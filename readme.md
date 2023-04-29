@@ -15,10 +15,10 @@ It will carry a friendly user interface that provides easy readability for the v
 
 2. [Requirements](docs/requirements.md) - Elliott and John for all (indicated where in Requirements page)
 
-3. [Design](docs/design.md) - Elliott for Sequence Diagram, Elliott and John for 
+3. [Design](docs/design.md) - Elliott and John for Sequence Diagram, Elliott and John for 
 Wireframe Diagrams
 
-4. [Implementation](docs/implementation.md) - Elliott entirely (coding, text, and diagrams)
+4. [Implementation](docs/implementation.md) - Elliott entirely (coding, text, and diagrams) Javascript Error table by John
 
 <all comments here written by Elliott>
 
