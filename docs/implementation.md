@@ -22,7 +22,6 @@ The project structure (though not currently complete) is as such:
 ├── var mysql = require('mysql');.js\
 └── website.html
 
-TODO: provide a table listing the number of jslint warnings/reports for each module.
 
 ## Software Architecture
 This is a 3 phase user-oriented architecture that begins with a web-app about Museum Popularity data, running on a Nodejs server that derives data from a MySQL database inhereted from Bristol Open Data (Bristol Museum Popularity)
