@@ -28,7 +28,7 @@ The project structure (though not currently complete) is as such:
 | --------- | ----------------------- |
 |connection.js| Undefined variables: Used a variable that was not designed for our project scope. Changed this variable to avoid future errors.|
 |DBET.js|'DatabaseConnection' is not defined.
-  return new DatabaseConnection(dbConfig); - The database was not defined.|
+  "return new DatabaseConnection(dbConfig);" - The database was not defined.|
 |var express = require('express');.js|                        |
 |var mysql = require('mysql');.js|                            |
 
