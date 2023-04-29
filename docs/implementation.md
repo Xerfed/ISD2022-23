@@ -28,7 +28,7 @@ The project structure (though not currently complete) is as such:
 | --------- | ----------------------- |
 |connection.js| Undefined variables: Used a variable that was not designed for our project scope. Changed this variable to avoid future errors.|
 |DBET.js|'DatabaseConnection' is not defined. "return new DatabaseConnection(dbConfig);": The database was not defined or declared in the current scope. To resolve this warning need to make sure it was properly declared within the code. |
-|var express = require('express');.js| 'require' was used before it was defined. This error indicates that JSLint does not recognize the require function and assumes it is an undefined variable. JSLint is not able to recognize Node.js-specific syntax or modules. Fixed this issue by including: /*jslint node: true */ 
+|var express = require('express');.js| 'require' was used before it was defined. This error indicates that JSLint does not recognize the require function and assumes it is an undefined variable. JSLint is not able to recognize Node.js-specific syntax or modules.
 var express = require('express');                        |
 |var mysql = require('mysql');.js|                            |
 
