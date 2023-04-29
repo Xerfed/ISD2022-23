@@ -10,21 +10,22 @@
 
 ### John's (UC2) Sequence Diagram for a website support system
 ![image](https://user-images.githubusercontent.com/110387603/235287239-86e941e3-9ae1-46f1-958c-16a6841f6e49.png)
-We have decided to explore a way to give the best user experience for our website and this is a system to help with tourists and users who requires assistance.
+We have decided to explore a way to give the best user experience for our website and this is a diagram which shows how the website will help with users queries and for those who requires assistance.
 
 <Create wireframes to show functions of web app>
 
 ## User Interface design (UC1) 
-(John)\
+(John)
 This is a rough idea of what the overall webpage will look like. [Some of the design may be altered at the final stage of implementation.]
-
-
 Our initial design includes:
 - A Home Page
+  Within the homepage we will include the total of people visiting the museums using the Bristol Museum OpenData. 
+  We plan to create a small text box which showcase information on the popular museums alongside local events. This should also be easy to change.
 - Popular Museums
+  This will be
 - Museum List
 - Map
-
+**Johns's Use Case (UC2) Wireframe:**
 ![image](https://user-images.githubusercontent.com/110387603/221118292-3bf6b68a-c122-4350-851b-80cc99ee36a0.png)
 
 
