@@ -36,6 +36,8 @@ Our target demographic mostly consists of tourists, the elderly, and teenagers. 
 | **Steps** |    1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums <br />4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time. 
 | **Issues** | Requires updating MySQL database over time as the information will change over the course of days/weeks/months as Bristol Open Data is updated. | </td></tr>
 
+
+**USE CASE DIAGRAM**
 ![image](https://user-images.githubusercontent.com/110387603/201328562-351a695f-1833-408e-8e1f-78b637ca5cc2.png)
 
 ## Software Requirements Specification
