@@ -16,6 +16,7 @@ We have decided to explore a way to give the best user experience for our websit
 
 ## User Interface design (UC1) 
 (John)
+ 
 This is a rough idea of what the overall webpage will look like. [Some of the design may be altered at the final stage of implementation.]
 Our initial design includes:
 - A Home Page: 
@@ -26,9 +27,10 @@ Our initial design includes:
 - Museum List:
    This will be a page that is dedicated to to showcase the most popular museums in the area with detailed explaination about it.
 - Map: A map of the museums which include a short information on the museum using google maps api alongside images of the museum.
+  
+  
 **Johns's Use Case (UC2) Wireframe:**
 ![image](https://user-images.githubusercontent.com/110387603/221118292-3bf6b68a-c122-4350-851b-80cc99ee36a0.png)
-
 
 
 **Elliott's Use Case (UC2) Wireframe:**
