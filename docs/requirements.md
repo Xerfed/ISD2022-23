@@ -74,7 +74,7 @@ Some functions for the website that focus on this subject are:
 - Website UI (User Interface): This is an important part of the efficiency of the website as by having a good website UI would mean that the users are able to navigate through the website with ease. This will help to provide an efficient user experience as it will help the user find the information in the website and easily find what they are looking for.
 
 
-Non-Functional Requirements (Elliott)
+Non-Functional Requirements (Elliott - USE CASE 2)
 
 **Portability** - The ability to use the app both on your PC and phone, therefore it can be used out and on foot for touriosts travelling around, therefore the need to develop the website to be visible and working on both phone and PC and having different UI's for each.
 
@@ -84,7 +84,7 @@ Non-Functional Requirements (Elliott)
 
 **Usability** - The program is designed with simplicity in mind; the aims of the web-app are to simply show you where you are in relation to local museums, and provide you with historical data based on these museums. This is a two page process with no unnecessary information in between.
 
-### Quality Attributes (Elliott) (Use Case For Museum Popularity)
+### Quality Attributes (Elliott - USE CASE 2)
 
 **NFR1: Interoperability** - The function of the web app is based on and reliant to the connectivity between itself, MySQL and by extension, MySQL's connectivty to Bristol Open Data. Working as a system of derivement from other systems.
 
