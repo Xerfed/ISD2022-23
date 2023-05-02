@@ -44,3 +44,14 @@ An initial page would demonstrate information about the purpose of the web-app, 
 "Popularity Data" would give you similar information and data choice that is instead informed by historical data on a larger scale, instead of hour to hour, derived from the MySQL database from Bristol Open Data.
 
 ![image](https://user-images.githubusercontent.com/116878977/208084953-b898d27c-d399-4c7d-84f1-3db6a32ddba3.png)
+
+
+**Harrison's Use Case (UC3) Wireframe:**
+This is a brief design of what the website will plan to look like but could possibly change in other phases. This design contains the following:
+
+The first page, which will be the homepage, will have the name of the website, a map of Bristol with location of museums, and a list of museums. User will be able to interact with the map and list to take them to next page, with a hyperlinked button, to show more data about that museum. 
+
+The next page displays the name, description, images, and other details about the museum so the user can find out about it without leaving the app. There will be a button called “Back” that is hyperlinked to take you back to the home page and a button called “Busiest Times” to take you to the graphs to show busiest times.
+
+The final page “Busiest Times” will display the name of the museum, opening times, peak time, amount currently in the museum and will have a graph to show busiest times in the day. The information will be retrieved from Bristol open data and our database. There will be a button called “Back” that is hyperlinked to take you back to the previous page. 
+![image](https://raw.githubusercontent.com/Xerfed/ISD2022-23/main/docs/images/HarrisonWireframe.png?token=GHSAT0AAAAAACBSBYR6HBVBSPYGNATT22SUZCRA7WQ.png)
