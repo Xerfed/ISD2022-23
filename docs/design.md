@@ -54,4 +54,4 @@ The first page, which will be the homepage, will have the name of the website, a
 The next page displays the name, description, images, and other details about the museum so the user can find out about it without leaving the app. There will be a button called “Back” that is hyperlinked to take you back to the home page and a button called “Busiest Times” to take you to the graphs to show busiest times.
 
 The final page “Busiest Times” will display the name of the museum, opening times, peak time, amount currently in the museum and will have a graph to show busiest times in the day. The information will be retrieved from Bristol open data and our database. There will be a button called “Back” that is hyperlinked to take you back to the previous page. 
-![image](https://raw.githubusercontent.com/Xerfed/ISD2022-23/main/docs/images/HarrisonWireframe.png?token=GHSAT0AAAAAACBSBYR6HBVBSPYGNATT22SUZCRA7WQ.png)
+![image](https://raw.githubusercontent.com/Xerfed/ISD2022-23/main/docs/images/HarrisonWireframe.png?token=GHSAT0AAAAAACBSBYR6HBVBSPYGNATT22SUZCRA7WQ)
