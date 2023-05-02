@@ -36,6 +36,14 @@ Our target demographic mostly consists of tourists, the elderly, and teenagers. 
 | **Steps** |    1. User opens web browser. <br /> 2. Get data from Open Database. <br /> 3. Shows historical trends of popularity for different museums <br />4. Shows where most people visit and on what days so they can gauge what is most sought after to see. <br /> 5. Showing in bar graph of popularity over time. 
 | **Issues** | Requires updating MySQL database over time as the information will change over the course of days/weeks/months as Bristol Open Data is updated. | </td></tr>
 
+| Use Case 3 (Harrison) | Location Data |
+| ---------------------------------------------------- | ----------------------------------------------------- |
+| **Description** |User and tourist will use the app to find out when peak time are, location, opening and closing times so they can plan there day accordingly when museums in Bristol are least busy. |
+| **Actors** | Tourist/User of App |
+| **Assumptions** | The browser will display graphs of the museums data to show the user when popular times are using Bristol open data. |
+| **Steps** |    1.The user opens a web browser <br /> 2. Then retrieve data about the museum from the database <br /> 3. Displays the current number of people in the museum that they've chosen <br /> 4. Provides a graph to the user to show the busiest times <br /> 5. They then can decide when to go to that museum or decide to look at another museum. 
+| **Issues** | Data will have to be kept up to date so its accuracy and consistent else it may provide the user with the wrong detail or current trends in popularity. | </td></tr>
+
 ### Use Case Diagram
 ![image](https://user-images.githubusercontent.com/110387603/201328562-351a695f-1833-408e-8e1f-78b637ca5cc2.png)
 
